@@ -1,8 +1,8 @@
 # This is a My Java Mini Project 
 
-It is a supermarket system, in this system having a lotof functions.
+This system design for supermarket, in this system using can be done a lot of things.
 
-My Index Number is ITBNM-2211-0129
+My index number is ITBNM-2211-0129
 
 Faculty of Information Technology
 
