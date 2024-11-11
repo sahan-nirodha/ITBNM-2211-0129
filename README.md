@@ -1,4 +1,4 @@
-"# This is a My Java Mini Project" 
+# This is a My Java Mini Project 
 
 It is a supermarket system, in this system having a lotof functions.
 
